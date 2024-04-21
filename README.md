@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @OmMistry25
-- 👀 I’m interested in Statistical Analysis and applications of Data Analysis in the field of Biology and Economics. 
-- 🌱 I’m currently learning different Python and R libraries, while analyzing basic/intermediary data sets.
-- 💞️ I’m looking to collaborate with anyone who aligns with my research interests.
-- 📫 Reach out to me at omist2@illinois.edu
-- 😄 Pronouns: he/him
+# About:
+Om Mistry is currently analyzing food trends by utilizing deep learning, web scraping, and machine learning. He is collaborating with Dr. Sharon Zou on the NIFA farm-to-table project at the University of Illinois at Urbana-Champaign.
+
+## Education:
+Bachelor's of Science in Industrial Engineering and Statistics at the University of Illinois at Urbana-Champaign.
 
 <!---
 OmMistry25/OmMistry25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
