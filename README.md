@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 About:<br>Om Mistry is currently analyzing food trends by utilizing deep learning, web scraping, and machine learning. He is collaborating with Dr. Sharon Zou on the NIFA farm-to-table project at the University of Illinois at Urbana-Champaign.<br><br>Education:<br>Bachelor's of Science in Industrial Engineering and Statistics at the University of Illinois at Urbana-Champaign.<br><br>Side Project:<br>[DeText](https://detext.streamlit.app/) - a web app that quickly analyzes texts to determine if they might have been AI-generated or altered.
 
 
