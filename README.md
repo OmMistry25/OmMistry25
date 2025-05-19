@@ -1,6 +1,7 @@
-# 👋 Hey, I’m Om
+# I build simple things that matter.
 
 I’m passionate about reimagining the everyday.  
+
 My goal is to build smarter, more intuitive versions of the tools and utilities we use the most, but often overlook. I focus on simplifying complexity, automating what’s repetitive, and delivering experiences that just make sense.
 
 Right now, I’m building **[mysmartlinq](https://mysmartlinq.com)**: a platform that powers context-aware smart links and QR codes. Our mission is to help businesses and creators deliver the right content to the right people at the right time.
