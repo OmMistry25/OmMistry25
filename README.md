@@ -35,5 +35,5 @@ B.S. in Industrial Engineering & Statistics
 ## Let’s Connect
 
 - [Website](https://ommistry.netlify.app/)
-- Email: omist2@illinois.edu
+- Email: om.mistry2502@gmail.com
 - LinkedIn: [linkedin.com/in/omystery/](https://www.linkedin.com/in/omystery/)
