@@ -15,9 +15,6 @@ B.S. in Industrial Engineering & Statistics
 
 ## Current Products
 
-- **UIUCbus**  
-  A mobile app that helps University of Illinois students navigate campus bus transportation more efficiently and never miss their classes.
-
 - **Intelligence on Call**  
   Chrome extension that brings AI-powered commands to any webpage with just a "/".
 
